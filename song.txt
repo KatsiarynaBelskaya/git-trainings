@@ -6,10 +6,3 @@ And we need to solve it
 
 Form the lines
 Shields by shields
-
-
-new content for commit
-add 1 line for new commit
-
-Revert: Add new lines
-For this commit 
